@@ -1,0 +1,13 @@
+.bg-image {
+    background-image: url(imagenes/imagen-fondo.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.bg-footer {
+    background-image: url(imagenes/footer.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 45vh;
+}
